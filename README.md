@@ -1,1 +1,2 @@
-# wearedevs19-nlp-workshop
+# NLP Workshop
+## We Are Developers World Congress 2019
